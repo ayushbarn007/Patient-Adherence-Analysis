@@ -23,7 +23,7 @@ Two-variable crosstabs (e.g., Previous Adherence × Mental Health Status, Insura
 Filtered queries isolating a compound high-risk profile (poor previous adherence + low social support + no insurance + poor mental health) against a compound low-risk profile, to quantify the gap between best-case and worst-case patients.
 
 **Phase 4 — Anomaly Investigation**
-Follow-up queries explaining three counter-intuitive patterns in the data — e.g., why "Moderate" condition severity showed worse adherence than "Severe," and why "Average" healthcare access showed worse adherence than "Poor" — by checking for confounding variables (social support, insurance) within each group.
+Follow-up queries explaining four counter-intuitive patterns in the data — e.g., why "Moderate" condition severity showed worse adherence than "Severe," why "Average" healthcare access showed worse adherence than "Poor," and why "High" income showed worse adherence than "Low" — by checking for confounding variables (social support, insurance, sample size) within each group.
 
 ## Key Findings
 - **Overall non-adherence rate:** 54.28% across 5,000 patients
